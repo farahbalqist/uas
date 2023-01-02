@@ -1,5 +1,5 @@
-# UAS
-UAS DATA MINING
+# nyoba
+nyoba DATA MINING
 
 NAMA : FARAH BALQIST
 
